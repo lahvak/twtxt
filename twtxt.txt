@@ -1,1 +1,2 @@
 2016-02-07T04:09:42.722548+00:00	Trying github setup
+2016-02-07T05:05:21.402267+00:00	Can't figure out how to use certificates on our school web server. Github works well for this, though.
