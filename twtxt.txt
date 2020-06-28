@@ -17,3 +17,4 @@
 2020-03-29T21:51:07-04:00	I am selecting WeBWorK problems and one says: "What is the approximated probability ..." with "approximated" emphasized. Then they continue: "Give you answer to at least 3 decimal places."  What the heck?
 2020-05-19T14:21:38-04:00	All Windows needs now is a decent GUI.
 2020-06-04T01:26:22-04:00	https://www.npr.org/sections/codeswitch/2020/06/03/457251670/how-much-do-we-need-the-police
+2020-06-28T13:51:47-04:00	https://www.theatlantic.com/ideas/archive/2020/06/stop-firing-innocent/613615/
