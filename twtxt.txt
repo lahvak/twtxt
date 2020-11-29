@@ -30,3 +30,4 @@
 2020-11-15T14:40:36-05:00	https://yomadic.com/stolipinovo-gypsy-ghetto/
 2020-11-21T21:49:23-05:00	https://www.vice.com/en/article/88aq9a/homework-is-bad-research-confirms
 2020-11-26T23:45:58-05:00	https://www.aljazeera.com/opinions/2020/11/25/women-journalists-are-facing-a-growing-threat/
+2020-11-28T23:09:43-05:00	https://heydonworks.com/article/marxian-alienation-and-web-development/
