@@ -32,3 +32,4 @@
 2020-11-26T23:45:58-05:00	https://www.aljazeera.com/opinions/2020/11/25/women-journalists-are-facing-a-growing-threat/
 2020-11-28T23:09:43-05:00	https://heydonworks.com/article/marxian-alienation-and-web-development/
 2020-12-12T12:21:27-05:00	https://statmodeling.stat.columbia.edu/2020/12/12/17-state-attorney-generals-100-congressmembers-and-the-association-for-psychological-science-walk-into-a-bar/
+2020-12-14T16:49:33-05:00	Interesting cookbook: https://act.unhcr.ca/page/71880/petition/1?ea.tracking.id=SOC20_UNR_TFH
