@@ -64,3 +64,4 @@
 2023-11-27T19:47:33-05:00	https://www.cmkos.cz/en
 2023-12-12T10:53:14-05:00	Starting a campain to rename the  function to .
 2023-12-12T10:53:29-05:00	Starting a campain to rename the `ggsave` function to `ggesus`.
+2023-12-12T10:56:13-05:00	Starting a campain to make myself remember the difference between single and double quotes in shell.
