@@ -68,3 +68,4 @@
 2023-12-20T18:42:37-05:00	https://www.newyorker.com/news/the-weekend-essay/in-the-shadow-of-the-holocaust
 2023-12-21T11:44:00-05:00	https://jacobin.com/2023/12/donald-trump-2024-presidential-election-democrats-liberalism
 2024-01-26T17:55:41-05:00	https://palestinianfeministcollective.org/
+2024-03-11T18:49:59-04:00	https://a2larm.cz/2024/03/darjo-prestante-cesky-patriarchat-z-prenosoveho-vozu-ceske-televize/
