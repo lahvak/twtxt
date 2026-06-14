@@ -107,3 +107,4 @@
 2026-05-11T21:47:11-04:00	This: https://nooneshappy.com/article/native-apps-should-be-avoided-whenever-possible/
 2026-05-13T11:43:08-04:00	https://denikalarm.cz/2026/05/sudety-nedame-babis-s-okamurou-se-snazi-zabranit-smireni-s-minulosti/
 2026-06-06T20:26:46-04:00	A good article on AI: https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/
+2026-06-13T23:27:27-04:00	https://www.eff.org/deeplinks/2025/11/license-plate-surveillance-logs-reveal-racist-policing-against-romani-people
